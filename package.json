@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/nuhaa/express_jwt/issues"
   },
-  "homepage": "https://github.com/nuhaa/express_jwt#readme"
+  "homepage": "https://github.com/nuhaa/express_jwt#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
 }
