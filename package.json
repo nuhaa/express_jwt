@@ -1,0 +1,24 @@
+{
+  "name": "express_jwt",
+  "version": "1.0.0",
+  "description": "untuk latihan express dg jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nuhaa/express_jwt.git"
+  },
+  "keywords": [
+    "node",
+    "jwt",
+    "express"
+  ],
+  "author": "nuha.um",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuhaa/express_jwt/issues"
+  },
+  "homepage": "https://github.com/nuhaa/express_jwt#readme"
+}
